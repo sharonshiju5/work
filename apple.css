@@ -1,17 +1,18 @@
 body{
     background-color: black;
-    height: 5000px;
-    margin: 0;
+    height: 500px;
+    width: 100%;
+    margin: 0px;
 }
 .body{
     display: ;
-    height: 8000px;
+    height: 8050px;
     width: 100%;
 }
 .navi{
     height: 40px;
     width: 100%;
-    background-color: #06060600;
+    background-color: #06060696;
     margin-top: 0%;
     margin-left: 0%;
     border-left:;
@@ -194,7 +195,7 @@ body{
     text-align: center;
     font-size: 30px;
     color: aliceblue;
-    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
     box-sizing: border-box;
     word-spacing: 1%;
 }
@@ -265,7 +266,7 @@ display: inline-block;
     width: 100%;
     background-image: url(images/iphone.jpg ) ;
     background-repeat: no-repeat;
-    background-position: 80px;
+    background-position: 0px;
     align-items:center ;
 
     font-size: 55px;
@@ -446,6 +447,13 @@ color: rgba(0, 0, 0, 0.726);
     align-items: center;
 
 }
+.learn2:hover{
+    background-color: rgb(255, 255, 255);
+    color: black;
+}.view2:hover{
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
 .view2{
     display: inline;
     /* text-align: center; */
@@ -559,6 +567,14 @@ display: inline-block;
     margin-left: 00px;
     align-items: center;
     
+}
+.learn3:hover{
+    background-color: rgb(15, 14, 14);
+    color: rgb(237, 233, 233);
+}
+.view3:hover{
+    background-color: rgb(16, 16, 16);
+    color: rgb(250, 247, 247);
 }
 .view3{
     display: inline-block;
@@ -683,10 +699,10 @@ display: inline-block;
     
 }
 .view4{
-    display: inline-block;
+    /* display: inline-block; */
     /* text-align: center; */
     text-decoration: none;
-    color: rgb(253, 249, 249);
+    color: rgb(114, 28, 28);
     font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 17px;
     line-height: 1.1764805882;
@@ -704,6 +720,14 @@ display: inline-block;
     align-items: center;
     
 }
+.learn4:hover{
+    background-color: rgb(23, 13, 98);
+    color: rgb(245, 243, 243);      
+}
+.view4:hover{
+    background-color: rgb(16, 16, 16);
+    color: rgb(250, 247, 247);
+}
 .parent4{
     display: flex;
     margin-top: 0px;
@@ -711,8 +735,6 @@ display: inline-block;
     top: 2710px;
     left: 580px;
 }
-   
-
 .bagr6{
     background-color: blue;
     width: 100%;
@@ -776,6 +798,14 @@ top: 4350px;
 color: rgba(244, 241, 241, 0.856);
 display: inline-block;
 }
+.learn6:hover{
+    background-color: rgb(242, 239, 239);
+    color: rgb(8, 8, 8);
+}
+.view6:hover{
+    background-color: rgb(249, 248, 248);
+    color: rgb(10, 10, 10);
+}
 .learn6{
     display: inline-block;
     /* text-align: center; */
@@ -820,6 +850,14 @@ display: inline-block;
     align-items: center;
     
 }
+.learn7:hover{
+    background-color: rgb(249, 247, 247);
+    color: rgb(12, 12, 12);
+}
+.view7:hover{
+    background-color: rgb(251, 247, 247);
+    color: rgb(6, 6, 6);
+}
 .parent6{
     display: flex;
     margin-top: 0px;
@@ -851,7 +889,7 @@ display: inline-block;
     
 }
 .view7{
-    display: inline-block;
+    display: inline;
     /* text-align: center; */
     text-decoration: none;
     color: rgb(253, 249, 249);
@@ -878,7 +916,7 @@ display: inline-block;
     top: 5760px;
     left: 590px;
     font-size: 75px;
-    
+    display: flex;
 }
 .text20{
     display: flex;
@@ -886,9 +924,10 @@ font-size: 24px;
 font-weight: 700;
 text-align: ;
 position: absolute;
-left: 470px;
+left: 490px;
 top: 5920px;
 color: rgba(249, 240, 240, 0.751);
+font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .text21{
     font-size: 15px;
@@ -897,6 +936,162 @@ color: rgba(249, 240, 240, 0.751);
 position: absolute;
 left: 650px;
 top: 6050px;
-color: rgba(244, 241, 241, 0.856);
+color: rgba(9, 9, 9, 0.856);
 display: inline-block;
+font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+.bag8{
+    /* background-image: url(images/iphone.jpg); */
+    background-color: rgb(252, 255, 254);
+    height: 1050px;
+    position: relative;
+    top: 2200px;
+    /* display: flex; */
+    /* flex-direction: row;
+    flex-wrap: ;
+    justify-content:space-evenly;
+    align-items: center; */
+}
+.i168{
+    /* display: flex;
+    flex-direction: row;
+    flex-wrap: ;
+    justify-content:space-evenly;
+    align-items: center; */
+    /* box-sizing: border-box; */
+    height: 1000px;
+    width: 100%;
+    /* background-image: url(images/airpods_max__ekwd5ba5gpm6_large_2x.jpeg ) ;
+    background-repeat: no-repeat;
+    background-position: 480px;
+    background-size: 600px; */
+    align-items:center ;
+    position:absolute ;
+    top: 0px;
+    
+    right: 0px;
+    font-size: 55px;
+    color:rgba(32, 30, 30, 0.867) ;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif; ;
+    margin-top: 0;
+    margin-left:0px;
+    margin-right: 0px;
+    letter-spacing: 0px;
+    font-weight: 550;
+    padding-top: 100px;
+    
+    /* padding-left: 550px; */
+    text-align: center;
+    
+}
+.iphone18{
+margin: 0px;
+
+left: 0;
+}
+.ip8{
+    position: absolute;
+    top: 650px;
+    left: 600px;
+    color:#30282896;
+    z-index: 1;
+}
+.built8{
+    height: 600px;
+    margin-left: 0px;
+    position: absolute;
+    left: 490px;
+    top: 90px;
+}
+.text23{
+font-size: 23px;
+text-align: ;
+position: absolute;
+left: 550px;
+top: 750px;
+color: #0a0a0a;
+}
+.text24{
+    font-size: 13px;
+text-align: ;
+position: absolute;
+left: 590px;
+top: 820px;
+color: rgba(32, 37, 37, 0.332);
+}
+.learn8{
+    display: inline;
+    /* text-align: center; */
+    text-decoration: none;
+    color: rgb(10, 10, 10);
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    line-height: 1.1764805882;
+    font-weight: 400;
+    letter-spacing: -0.022em;
+    margin: 678px 0px 0px;
+    padding: 17px 30px;
+    background: transparent;
+    border: 1px solid rgb(5, 5, 5);
+    border-radius: 40px;
+    position: relative;
+    left: 60px;
+    top: 100px;
+    margin-top: 0px;
+    margin-left: 550px;
+    align-items: center;
+
+}
+.learn8:hover{
+    background-color: rgb(9, 9, 9);
+    color: rgb(253, 250, 250);
+}
+.view8{
+    display: inline;
+    /* text-align: center; */
+    text-decoration: none;
+    color: rgb(8, 8, 8);
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    line-height: 1.1764805882;
+    font-weight: 400;
+    letter-spacing: -0.022em;
+    margin: 678px 0px 0px;
+    padding: 17px 30px;
+    background: transparent;
+    border: 1px solid rgb(10, 10, 10);
+    border-radius: 30px;
+    position: relative;
+    top: 100px;
+    left: 50px;
+    margin-top: 0px;
+    margin-left:50px;
+    align-items: center;
+}
+.view8:hover{
+    background-color: rgb(14, 14, 14);
+    color: rgb(252, 248, 248);
+}
+.parent8{
+    display: flex;
+}
+.bag9{
+    background-color: rgba(255, 255, 255, 0.973);
+    height: 800px;
+    width: 100%;
+    display: flex;
+    position: absolute;
+    top: 7300px;
+    margin-bottom: 0px;
+}
+table{
+width: 1000px;
+margin: 270px;
+margin-top: 50px;
+margin-bottom: 50px;
+/* background-color: aqua; */
+font-size: 12px;
+color: #0a0a0a93;
+font-family:"SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif; ;
+}
+
